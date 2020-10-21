@@ -1,5 +1,5 @@
-# Disclose Intro:
-Giving complain to the right person who in charge.
+# Disclose
+A problem sharing platform
 
 # How to Install Node.js and NPM on Windows
 
