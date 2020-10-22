@@ -1,15 +1,23 @@
 # Disclose
-A problem sharing platform
+
+## Deacription
+It is a problem sharing platform.We face many problems in our locality in our day to day life.But we dont know how to complain and who will be right person to complain.Sometimes it is grat hustle to reach the right person and to share out problem.We want to develop a web application so that every citizen in our country can get a platform to share their problems in their locality.Every citizn can share their problems according to the locality and problem catagory.They can give rating and complain to the complain.Besdies if the user does not want to share his/her identity then he/she can share the problems anonymously.Our system will forward the problems to the government officials according to the problem catagory and locality.Then they will try to solve the problems.The user can contact with us for any kind of information.
+
+## Course no 
+CSE3224
+
+## Course Title
+Information and System Design Lab
 
 # How to Install Node.js and NPM on Windows
 
-## Step 1: Download Node.js Installer
+### Step 1: Download Node.js Installer
   In a web browser, navigate to https://nodejs.org/en/download/. 
   Click the Windows Installer button to download the latest default version. 
   At the time this article was written, version 10.16.0-x64 was the latest version. 
   The Node.js installer includes the NPM package manager.
 
-## Step 2: Install Node.js and NPM from Browser
+### Step 2: Install Node.js and NPM from Browser
 
 - Once the installer finishes downloading, launch it. Open the downloads link in your browser and click the file. Or, browse to the location where you have saved the file and double-click it to launch.
 
@@ -26,7 +34,7 @@ A problem sharing platform
 - Finally, click the Install button to run the installer. When it finishes, click Finish.
 
 
-## Step 3: Verify Installation
+### Step 3: Verify Installation
   
 - Open a command prompt (or PowerShell), and enter the following:
 
