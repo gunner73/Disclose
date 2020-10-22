@@ -9,7 +9,7 @@ CSE3224
 ## Course Title
 Information and System Design Lab
 
-# How to Install Node.js and NPM on Windows
+## How to Install Node.js and NPM on Windows
 
 ### Step 1: Download Node.js Installer
   In a web browser, navigate to https://nodejs.org/en/download/. 
@@ -53,7 +53,7 @@ Information and System Design Lab
 >> `   npm start   `
 
 
-# Guidence to run the project:
+## Guidence to run the project:
 
 1. At first please clone this project from the master brance.
 2. Open the project in the visual studio code.
